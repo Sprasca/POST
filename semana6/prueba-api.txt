@@ -1,0 +1,5 @@
+Para este ejercicio el servidor responde con un JSON de confirmación con los datos enviados porque la petición POST fue procesada correctamente. Esto demuestra que la API recibió y leyó los datos enviados en el cuerpo de la solicitud.
+
+estado          nombre mensaje
+------          ------ -------
+Datos recibidos Maria  Hola comunidad	

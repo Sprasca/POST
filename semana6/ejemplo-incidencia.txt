@@ -1,0 +1,4 @@
+{
+  "tipo": "Sin servicio de agua",
+  "descripcion": "La comunidad informa que llevan 48 horas sin servicio de agua potable en el municipio"
+}

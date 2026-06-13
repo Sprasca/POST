@@ -1,0 +1,7 @@
+Respuesta con POST
+Reporte registrado @{id=1; tipo=Infraestructura; descripcion=Da o en alumbrado publico
+
+Respuesta con Get
+id tipo            descripción
+-- ----            -----------
+ 1 Infraestructura Daño en alumbrado publico

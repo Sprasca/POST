@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Salud",
+  "descripcion": "Infeccion viral de sarampión en la comunidad"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Contaminación química en un cuerpo de agua importante para la región"
+}

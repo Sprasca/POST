@@ -1,0 +1,7 @@
+1. Comandos generados: 
+@Sprasca ➜ /workspaces/POST/semana8/seguridad (sof!a) $ uname -a
+Linux codespaces-c7ab8b 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+@Sprasca ➜ /workspaces/POST/semana8/seguridad (sof!a) $ whoami
+codespace
+
+2. Esto es util conocerlo porque permite conocer a nosotros como programadores bajo que sistema operativo se esta desarrollando el servidor y en que entorno se esta trabajando, ademas nos da informacion sobre la maquina virtual usada

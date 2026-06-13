@@ -1,0 +1,3 @@
+1. Ocultar constraseñas en inicio de sesion
+2. Evitar compartir credenciales o llaves de acceso
+3. Actualizar las constraseñas cada cierto tiempo

@@ -1,0 +1,5 @@
+1. No exponer información personal de los usuarios
+2. Usar entornos seguros para el desarrollo 
+3. Limitar acceso a la privacidad de los usuarios
+4. Tener logs de auditoria inmutables
+5. Validar la entrada de usuarios a la plataforma

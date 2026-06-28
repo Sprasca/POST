@@ -1,0 +1,7 @@
+Qué ocurre cuando ejecutas node server.js.
+Respuesta: Se abre una pagina en blanco en el navegador
+Qué mensaje aparece en la terminal.
+Respuesta: @Sprasca ➜ /workspaces/POST/semana9 (sof!a) $ node server.js
+Servidor ejecutándose en puerto 3000
+Qué sucede cuando visitas la ruta /estado.
+Respuesta: Aparece servidor funciona api comunitaria
